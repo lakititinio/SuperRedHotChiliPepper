@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="google-site-verification" content="gUoCyeSQuDS-sY1V-c9XNKGBrkuFvE-jhqKD4_ZjB6M" />
-<title> My title </title>
+<title> Banayad Whiskey </title>
 </head> 
 <body>
 page contents
