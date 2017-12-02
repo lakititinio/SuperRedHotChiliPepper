@@ -5,6 +5,6 @@
 <title> Banayad Whiskey </title>
 </head> 
 <body>
-page contents
+<p>Page Contents</p>
 </body>
 </html>
